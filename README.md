@@ -1,4 +1,4 @@
-# Petrichor [Game Master Assistant] — Model Card
+# Petrichor [Game Master Assistant]
 
 ---
 
